@@ -1,6 +1,6 @@
 <style>
 body{
-    background-image:url("download.jpg");
+    background-image:url("images/download.jpg");
     background-repeat:no-repeat;
     
     background-size:cover;
@@ -30,7 +30,7 @@ ul#bar li{
      border-radius:10px;
      text-decoration:none;
      text-align:center;
-     background-image:url("Free-Abstract-Blue-Background-Vector-Graphic_thumb.jpg");
+     background-image:url("images/Free-Abstract-Blue-Background-Vector-Graphic_thumb.jpg");
      background-size:100% 100%;
      color:#e2742e;
 }
@@ -85,7 +85,7 @@ a.class3{color:black;}
    margin-top:40px;
    margin-bottom:40px;
    margin-right:40px;
-   background-image:url("3679493-old-paper-scroll-on-a-wood-background.jpg");
+   background-image:url("images/3679493-old-paper-scroll-on-a-wood-background.jpg");
    background-size:cover;
    font-size:130%;
 text-decoration:bold;
