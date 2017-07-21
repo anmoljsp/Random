@@ -6,3 +6,5 @@ The following project is an experimental and learning project built by us for th
 
 
 The whole project is built using the HTML5 web framework while its styling is done with CSS3. The website is completely responsive to all screens of varying sizes.
+
+The homepage goes by the name A0.htm
